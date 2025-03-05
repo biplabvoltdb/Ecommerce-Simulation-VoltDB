@@ -63,7 +63,7 @@ This simulation replicates a **warehouse-based e-commerce system** where users p
 
 ### **Running the Simulation**
 1. **Compile and run the Java client.**
-2. **Ensure the necessary stored procedure is deployed in VoltDB.**
+2. **Ensure the necessary stored procedure is deployed in VoltDB. (You can compile the PlaceOrderProcedure.java file into a jar and then using that jar file you can Load the classes into VoltDB)**
 3. **Execute simulated e-commerce transactions.**
 4. **Monitor transaction logs and performance metrics.**
 
